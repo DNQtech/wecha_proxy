@@ -1,21 +1,245 @@
-# 🚀 AI-Powered WeChat Official Account Data Assistant
+# 🚀 AI驱动的微信公众号数据助手
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/📥_Download-Desktop_App-059669?style=for-the-badge)](https://gitee.com/gongdnq/wechat_proxy/releases)
-[![Contact](https://img.shields.io/badge/💬_Contact-WeChat_Group-DC2626?style=for-the-badge)](#contact)
+[![下载应用](https://img.shields.io/badge/📥_下载应用-桌面版-059669?style=for-the-badge)](https://gitee.com/gongdnq/wechat_proxy/releases)
+[![联系我们](https://img.shields.io/badge/💬_联系我们-微信群-DC2626?style=for-the-badge)](#联系我们)
 
-**Professional AI-Driven Data Collection Tool for WeChat Official Accounts | 百家号 | 头条号**
+**专业的AI驱动数据采集工具 | 微信公众号 | 百家号 | 头条号**
 
 *自媒体数据采集 • AI智能分析 • 多平台支持*
 
-[🇺🇸 English](#english-version) | [🇨🇳 中文](#中文版本)
+[🇨🇳 中文](#中文版本) | [�🇸 English](#english-version)
 
-*Jump to your preferred language section*
+*选择您的首选语言版本*
 
-![Hero Image](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=AI+WeChat+Data+Assistant)
+<!-- 产品展示图片位置 - 请替换为实际产品截图 -->
+![产品展示图](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=产品界面展示图+请替换为实际截图)
 
-**Keywords**: AI数据分析, 微信公众号数据采集, 自媒体运营工具, 百家号数据分析, 头条号数据统计, WeChat Data Mining, Social Media Analytics
+<!-- 功能演示图片位置 -->
+![功能演示](https://via.placeholder.com/800x300/059669/FFFFFF?text=功能演示图+请替换为实际演示图)
+
+**关键词**: AI数据分析, 微信公众号数据采集, 自媒体运营工具, 百家号数据分析, 头条号数据统计, WeChat Data Mining, Social Media Analytics
+
+</div>
+
+---
+
+## 中文版本
+
+## 🌟 为什么选择我们的AI数据采集工具？
+
+### 🤖 **AI驱动的智能数据分析**
+任意采集对标公众号数据，助力微信公众号、百家号、头条号等自媒体内容策略优化和AI内容创作。
+支撑多账号监控批量采集，一键导出表格，自动推送到自己的服务器，无障碍对接到自己的项目。
+
+<!-- 数据分析界面截图位置 -->
+![数据分析界面](https://via.placeholder.com/600x350/4F46E5/FFFFFF?text=AI数据分析界面截图)
+
+### ⚡ **多平台数据采集**
+无缝采集多个自媒体平台数据 - 微信公众号、百度百家号、今日头条等。
+
+<!-- 多平台支持展示图 -->
+![多平台支持](https://via.placeholder.com/600x300/059669/FFFFFF?text=多平台数据采集展示图)
+
+### 🔒 **企业级数据安全**
+自媒体数据本地存储，AI加密保护，无云端风险，完全掌控您的数据资产。
+
+### 🎯 **AI实时监控分析**
+AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运营策略。
+
+<!-- 实时监控界面截图 -->
+![实时监控](https://via.placeholder.com/600x350/DC2626/FFFFFF?text=AI实时监控界面截图)
+
+## ✨ 自媒体创作者专属AI功能
+
+<!-- 功能特色展示图 -->
+![功能特色](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=核心功能展示图)
+
+<div align="center">
+
+| 功能 | 描述 | 支持平台 |
+|------|------|----------|
+| 🤖 **AI数据采集** | 智能算法自动采集分析 | 微信公众号, 百家号, 头条号 |
+| 📈 **多平台分析** | 跨平台数据对比分析 | 全平台自媒体支持 |
+| 📊 **AI可视化** | AI生成图表和洞察报告 | 智能数据可视化 |
+| 📤 **智能导出** | AI优化的数据导出 | Excel, CSV, PDF |
+| 🔄 **实时同步** | 多平台数据实时更新 | 全平台同步 |
+| 🎨 **现代界面** | 为自媒体创作者优化的界面 | 响应式设计 |
+
+</div>
+
+<!-- 界面展示图片组 -->
+<div align="center">
+
+### 📱 界面展示
+
+![主界面](https://via.placeholder.com/400x250/4F46E5/FFFFFF?text=主界面截图)
+![数据分析](https://via.placeholder.com/400x250/059669/FFFFFF?text=数据分析页面)
+![导出功能](https://via.placeholder.com/400x250/DC2626/FFFFFF?text=导出功能界面)
+
+</div>
+
+### 🚀 **支持的自媒体平台**
+
+<!-- 平台支持展示图 -->
+![支持平台](https://via.placeholder.com/700x200/8B5CF6/FFFFFF?text=支持的自媒体平台图标展示)
+
+- ✅ **微信公众号** - 全功能数据采集
+- ✅ **百家号** - 即将支持
+- ✅ **头条号** - 即将支持
+- ✅ **知乎** - 即将支持
+- ✅ **小红书** - 即将支持
+- ✅ **抖音** - 开发中
+
+## 🎮 下载安装
+
+**专业桌面应用，完整AI功能！**
+
+<!-- 下载按钮展示图 -->
+![下载展示](https://via.placeholder.com/600x200/059669/FFFFFF?text=下载安装展示图)
+
+👉 **[下载最新版本 (v1.0.0)](https://gitee.com/gongdnq/wechat_proxy/releases/download/v1.0.0/公众号数据助手-1.0.0-setup.exe)** 👈
+
+- ✅ 完整AI数据分析功能
+- ✅ 多平台数据采集
+- ✅ 专业自媒体分析仪表板
+- ✅ 一键安装使用
+
+### 📋 **安装指南**
+
+<!-- 安装步骤展示图 -->
+![安装步骤](https://via.placeholder.com/600x300/4F46E5/FFFFFF?text=安装步骤展示图)
+
+1. **下载** 上方链接的安装程序
+2. **右键管理员身份** 运行安装文件
+3. **按照** 安装向导提示操作
+4. **启动** 程序开始数据采集
+
+## 📥 获取完整AI版本
+
+### 🆓 **免费AI试用**
+- 完整功能试用
+- 多平台数据采集
+- 完整自媒体分析功能
+
+### 💎 **AI高级功能**
+- ✅ 无限微信公众号管理
+- ✅ 百家号&头条号数据采集
+- ✅ 高级AI分析功能
+- ✅ 跨平台数据洞察
+
+## 🏆 自媒体创作者真实评价
+
+<!-- 用户评价展示图 -->
+![用户评价](https://via.placeholder.com/700x300/8B5CF6/FFFFFF?text=用户评价和案例展示)
+
+> *"这个AI工具每周为我节省了10多个小时的微信公众号和百家号数据收集时间。AI洞察分析帮助我们在所有平台的互动率提升了40%！"*
+> 
+> **— 自媒体运营总监，某科技公司**
+
+> *"终于找到一个真正适合头条号和微信的AI工具！界面简洁，AI功能强大，客服支持也很棒。"*
+> 
+> **— 内容创作者，全平台50万+粉丝**
+
+> *"AI数据分析功能太棒了！能自动识别热点话题和最佳发布时间，大大提升了自媒体运营效率。"*
+> 
+> **— 数字营销机构**
+
+<!-- 成功案例展示图 -->
+![成功案例](https://via.placeholder.com/600x250/DC2626/FFFFFF?text=成功案例数据展示)
+
+## 🛠️ AI技术规格
+
+- **AI引擎**: 先进机器学习算法
+- **支持平台**: Windows 10/11, macOS (即将支持)
+- **数据采集平台**: 微信公众号, 百家号, 头条号
+- **技术支持**: 7×24小时
+
+## 🎯 自媒体应用场景
+
+<!-- 应用场景展示图 -->
+![应用场景](https://via.placeholder.com/800x400/059669/FFFFFF?text=应用场景展示图)
+
+### 📈 **自媒体运营团队**
+- 微信公众号统一管理
+- AI数据驱动内容策略
+- 跨平台竞品分析对比
+
+### 🏢 **企业新媒体部**
+- 多平台品牌传播效果评估
+- AI智能ROI数据分析
+- 自动化定期报告制作
+
+### 👥 **自媒体代运营公司**
+- 客户多平台账号批量管理
+- AI效果数据智能汇总
+- 专业自媒体分析报告
+
+### � **数据分析师**
+- 深度自媒体数据挖掘
+- AI趋势预测分析
+- 智能可视化图表制作
+
+<!-- 使用场景截图组 -->
+<div align="center">
+
+![场景1](https://via.placeholder.com/300x200/4F46E5/FFFFFF?text=运营团队使用场景)
+![场景2](https://via.placeholder.com/300x200/059669/FFFFFF?text=企业使用场景)
+![场景3](https://via.placeholder.com/300x200/DC2626/FFFFFF?text=代运营使用场景)
+
+</div>
+
+## 🔥 自媒体创作者专享优惠
+
+<div align="center">
+
+### 💥 **新用户AI体验包**
+
+**立即注册享受：**
+- 🎁 **功能免费试用**
+- 🎯 **专属客服1对1指导**
+- 📚 **免费自媒体AI数据分析培训**
+- 🚀 **数据采集教程**
+
+*优惠有效期至本月底，限前100名自媒体创作者！*
+
+</div>
+
+## 📞 立即开始
+
+<div align="center">
+
+### 🎯 **准备好改变您的数据分析方式了吗？**
+
+[![立即下载](https://img.shields.io/badge/📥_立即下载-v1.0.0-4F46E5?style=for-the-badge&logo=download)](https://gitee.com/gongdnq/wechat_proxy/releases/download/v1.0.0/公众号数据助手-1.0.0-setup.exe)
+[![查看所有版本](https://img.shields.io/badge/📋_所有版本-Gitee-059669?style=for-the-badge&logo=git)](https://gitee.com/gongdnq/wechat_proxy/releases)
+[![联系销售](https://img.shields.io/badge/💬_联系销售-获取报价-DC2626?style=for-the-badge&logo=chat)](mailto:sales@example.com)
+
+</div>
+
+## <a name="联系我们"></a>📞 联系我们
+
+<!-- 联系方式展示图 -->
+![联系方式](https://via.placeholder.com/600x200/8B5CF6/FFFFFF?text=联系方式展示图)
+
+<div align="center">
+
+### 🤝 **多种联系方式，选择最适合您的**
+
+| 联系方式 | 信息 | 响应时间 |
+|----------|------|----------|
+| � **邮箱** | support@example.com | 2小时内 |
+| 💬 **微信群** | 扫描下方二维码 | 实时回复 |
+| 📞 **电话** | 400-123-4567 | 工作时间 |
+| 🌐 **官网** | www.example.com | 24/7 |
+
+### � **扫码加入用户群**
+
+<!-- 微信群二维码位置 -->
+![微信群二维码](https://via.placeholder.com/200x200/4F46E5/FFFFFF?text=微信群二维码+请替换为实际二维码)
+
+*专业技术支持 • 用户交流 • 最新资讯*
 
 </div>
 
@@ -23,7 +247,7 @@
 
 ## English Version
 
-## 🌟 Why Choose Our AI-Powered Tool?
+## � Why Choose Our AI-Powered Tool?
 
 ### 🤖 **AI-Driven Data Analysis**
 Transform your WeChat Official Account, 百家号, and 头条号 data into actionable insights with our advanced AI analytics platform.
@@ -45,21 +269,21 @@ AI-powered real-time tracking of article performance, engagement metrics, and au
 |---------|-------------|---------------------|
 | 🤖 **AI Data Collection** | Smart data mining with AI algorithms | 微信公众号, 百家号, 头条号 |
 | 📈 **Multi-Platform Analytics** | Cross-platform performance analysis | WeChat, Baidu, Toutiao |
-| 📊 **AI Visual Reports** | AI-generated charts and insights | All 自媒体 platforms |
+| � **AI Visual Reports** | AI-generated charts and insights | All 自媒体 platforms |
 | 📤 **Smart Export** | AI-optimized data export for reports | Excel, CSV, PDF |
 | 🔄 **Real-Time Sync** | Live data updates across platforms | Multi-platform support |
 | 🎨 **Modern Interface** | Clean, intuitive design for 自媒体 creators | Responsive design |
 
 </div>
 
-### 🚀 **Supported Platforms**
+### � **Supported Platforms**
 - ✅ **微信公众号** (WeChat Official Accounts)
 - ✅ **百家号** (Baidu Baijiahao)  
 - ✅ **头条号** (Toutiao/ByteDance)
 - ✅ **知乎** (Zhihu) - Coming Soon
 - ✅ **小红书** (Xiaohongshu) - Coming Soon
 
-## 🎮 Download and Install
+## � Download and Install
 
 **Professional desktop application with full AI capabilities!**
 
@@ -70,7 +294,7 @@ AI-powered real-time tracking of article performance, engagement metrics, and au
 - ✅ Professional 自媒体 analytics dashboard
 - ✅ One-click installation
 
-### � **Installation Guide**
+### 📋 **Installation Guide**
 1. **Download** the installer from the link above
 2. **Run** the setup file as administrator
 3. **Follow** the installation wizard
@@ -130,169 +354,6 @@ AI-powered real-time tracking of article performance, engagement metrics, and au
 [![Download Now](https://img.shields.io/badge/📥_Download_Now-v1.0.0-4F46E5?style=for-the-badge&logo=download)](https://gitee.com/gongdnq/wechat_proxy/releases/download/v1.0.0/公众号数据助手-1.0.0-setup.exe)
 [![View Releases](https://img.shields.io/badge/📋_All_Releases-Gitee-059669?style=for-the-badge&logo=git)](https://gitee.com/gongdnq/wechat_proxy/releases)
 [![Contact Sales](https://img.shields.io/badge/💬_Contact_Sales-Get_Quote-DC2626?style=for-the-badge&logo=chat)](mailto:sales@example.com)
-
-</div>
-
----
-
-## 中文版本
-
-## 🌟 为什么选择我们的数据采集工具？
-
-### 🤖 **AI驱动的数据分析**
-任意采集对标公众号数据，助力微信公众号、百家号、头条号等自媒体内容策略优化和ai内容创作。
-支撑多账号监控批量采集，一键到处表格，自动推动到自己的服务器，无障碍对接到自己的项目
-
-### 🔒 **企业级数据安全**
-自媒体数据本地存储，AI加密保护，无云端风险，完全掌控您的数据资产。
-
-### 🎯 **AI实时监控分析**
-AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运营策略。
-
-## ✨ 自媒体创作者专属AI功能
-
-<div align="center">
-
-| 功能 | 描述 | 支持平台 |
-|------|------|----------|
-| 🤖 **AI数据采集** | 智能算法自动采集分析 | 微信公众号, 百家号, 头条号 |
-| 📈 **多平台分析** | 跨平台数据对比分析 | 全平台自媒体支持 |
-| 📊 **AI可视化** | AI生成图表和洞察报告 | 智能数据可视化 |
-| 📤 **智能导出** | AI优化的数据导出 | Excel, CSV, PDF |
-| 🔄 **实时同步** | 多平台数据实时更新 | 全平台同步 |
-| 🎨 **现代界面** | 为自媒体创作者优化的界面 | 响应式设计 |
-
-</div>
-
-### 🚀 **支持的自媒体平台**
-- ✅ **微信公众号** - 全功能数据采集
-- ✅ **百家号** - 即将支持
-- ✅ **头条号** - 即将支持
-- ✅ **知乎** - 即将支持
-- ✅ **小红书** - 即将支持
-- ✅ **抖音** - 开发中
-
-## 🎮 下载安装
-
-**专业桌面应用，完整AI功能！**
-
-👉 **[下载最新版本 (v1.0.0)](https://gitee.com/gongdnq/wechat_proxy/releases/download/v1.0.0/公众号数据助手-1.0.0-setup.exe)** 👈
-
-- ✅ 完整AI数据分析功能
-- ✅ 多平台数据采集
-- ✅ 专业自媒体分析仪表板
-- ✅ 一键安装使用
-
-## 📥 获取完整AI版本
-
-### 🆓 **免费AI试用**
-- 完整功能试用
-- 多平台数据采集
-- 完整自媒体分析功能
-
-### 💎 **AI高级功能**
-- ✅ 无限微信公众号管理
-- ✅ 百家号&头条号数据采集
-- ✅ 高级AI分析功能
-- ✅ 跨平台数据洞察
-
-### 📦 **简单安装**
-1. **下载** 上方链接的安装程序
-2. **右键管理员身份** 运行安装文件
-3. **按照** 安装向导提示操作
-4. **启动** 程序开始数据采集
-3. 开始数据采集
-4. 分析和导出
-
-## 🏆 自媒体创作者评价
-
-> *"这个AI工具每周为我节省了10多个小时的微信公众号和百家号数据收集时间。AI洞察分析帮助我们在所有平台的互动率提升了40%！"*
-> 
-> **— 自媒体运营总监，某科技公司**
-
-> *"终于找到一个真正适合头条号和微信的AI工具！界面简洁，AI功能强大，客服支持也很棒。"*
-> 
-> **— 内容创作者，全平台50万+粉丝**
-
-> *"AI数据分析功能太棒了！能自动识别热点话题和最佳发布时间，大大提升了自媒体运营效率。"*
-> 
-> **— 数字营销机构**
-
-## 🛠️ AI技术规格
-
-- **AI引擎**: 先进机器学习算法
-- **支持平台**: Windows 10/11, macOS (即将支持)
-- **数据采集平台**: 微信公众号, 百家号, 头条号
-- **技术支持**: 7×24小时
-
-## 📞 立即开始
-
-<div align="center">
-
-### 🎯 **准备好改变您的数据分析方式了吗？**
-
-[![立即下载](https://img.shields.io/badge/📥_立即下载-v1.0.0-4F46E5?style=for-the-badge&logo=download)](https://gitee.com/gongdnq/wechat_proxy/releases/download/v1.0.0/公众号数据助手-1.0.0-setup.exe)
-[![查看所有版本](https://img.shields.io/badge/📋_所有版本-Gitee-059669?style=for-the-badge&logo=git)](https://gitee.com/gongdnq/wechat_proxy/releases)
-[![联系销售](https://img.shields.io/badge/💬_联系销售-获取报价-DC2626?style=for-the-badge&logo=chat)](mailto:sales@example.com)
-
-</div>
-
-## 🎯 自媒体应用场景
-
-### 📈 **自媒体运营团队**
-- 微信公众号统一管理
-- AI数据驱动内容策略
-- 跨平台竞品分析对比
-
-### 🏢 **企业新媒体部**
-- 多平台品牌传播效果评估
-- AI智能ROI数据分析
-- 自动化定期报告制作
-
-### 👥 **自媒体代运营公司**
-- 客户多平台账号批量管理
-- AI效果数据智能汇总
-- 专业自媒体分析报告
-
-### 📊 **数据分析师**
-- 深度自媒体数据挖掘
-- AI趋势预测分析
-- 智能可视化图表制作
-
-## 🔥 自媒体创作者专享优惠
-
-<div align="center">
-
-### 💥 **新用户AI体验包**
-
-**立即注册享受：**
-- 🎁 **功能免费试用**
-- 🎯 **专属客服1对1指导**
-- 📚 **免费自媒体AI数据分析培训**
-- 🚀 **数据采集教程**
-
-*优惠有效期至本月底，限前100名自媒体创作者！*
-
-</div>
-
-## <a name="contact"></a>📞 联系我们
-
-<div align="center">
-
-### 🤝 **多种联系方式，选择最适合您的**
-
-| 联系方式 | 信息 | 响应时间 |
-|----------|------|----------|
-| 📧 **邮箱** | support@example.com | 2小时内 |
-| 💬 **微信群** | 扫描下方二维码 | 实时回复 |
-| 📞 **电话** | 400-123-4567 | 工作时间 |
-| 🌐 **官网** | www.example.com | 24/7 |
-
-### 📱 **扫码加入用户群**
-
-![WeChat QR](https://via.placeholder.com/200x200/4F46E5/FFFFFF?text=WeChat+QR)
-
-*专业技术支持 • 用户交流 • 最新资讯*
 
 </div>
 

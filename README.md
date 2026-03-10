@@ -13,11 +13,11 @@
 
 *选择您的首选语言版本*
 
-<!-- 产品展示图片位置 - 请替换为实际产品截图 -->
-![产品展示图](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=产品界面展示图+请替换为实际截图)
+<!-- 产品展示图片 -->
+![产品展示图](assets/img.png)
 
-<!-- 功能演示图片位置 -->
-![功能演示](https://via.placeholder.com/800x300/059669/FFFFFF?text=功能演示图+请替换为实际演示图)
+<!-- 功能演示图片 -->
+![功能演示](assets/img_1.png)
 
 **关键词**: AI数据分析, 微信公众号数据采集, 自媒体运营工具, 百家号数据分析, 头条号数据统计, WeChat Data Mining, Social Media Analytics
 
@@ -33,14 +33,14 @@
 任意采集对标公众号数据，助力微信公众号、百家号、头条号等自媒体内容策略优化和AI内容创作。
 支撑多账号监控批量采集，一键导出表格，自动推送到自己的服务器，无障碍对接到自己的项目。
 
-<!-- 数据分析界面截图位置 -->
-![数据分析界面](https://via.placeholder.com/600x350/4F46E5/FFFFFF?text=AI数据分析界面截图)
+<!-- 数据分析界面截图 -->
+![数据分析界面](assets/img_2.png)
 
 ### ⚡ **多平台数据采集**
 无缝采集多个自媒体平台数据 - 微信公众号、百度百家号、今日头条等。
 
 <!-- 多平台支持展示图 -->
-![多平台支持](https://via.placeholder.com/600x300/059669/FFFFFF?text=多平台数据采集展示图)
+![多平台支持](assets/img_3.png)
 
 ### 🔒 **企业级数据安全**
 自媒体数据本地存储，AI加密保护，无云端风险，完全掌控您的数据资产。
@@ -49,12 +49,12 @@
 AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运营策略。
 
 <!-- 实时监控界面截图 -->
-![实时监控](https://via.placeholder.com/600x350/DC2626/FFFFFF?text=AI实时监控界面截图)
+![实时监控](assets/img_4.png)
 
 ## ✨ 自媒体创作者专属AI功能
 
 <!-- 功能特色展示图 -->
-![功能特色](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=核心功能展示图)
+![功能特色](assets/img_1.png)
 
 <div align="center">
 
@@ -74,16 +74,16 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 
 ### 📱 界面展示
 
-![主界面](https://via.placeholder.com/400x250/4F46E5/FFFFFF?text=主界面截图)
-![数据分析](https://via.placeholder.com/400x250/059669/FFFFFF?text=数据分析页面)
-![导出功能](https://via.placeholder.com/400x250/DC2626/FFFFFF?text=导出功能界面)
+![主界面](assets/img.png)
+![数据分析](assets/img_2.png)
+![导出功能](assets/img_4.png)
 
 </div>
 
 ### 🚀 **支持的自媒体平台**
 
 <!-- 平台支持展示图 -->
-![支持平台](https://via.placeholder.com/700x200/8B5CF6/FFFFFF?text=支持的自媒体平台图标展示)
+![支持平台](assets/img_3.png)
 
 - ✅ **微信公众号** - 全功能数据采集
 - ✅ **百家号** - 即将支持
@@ -97,7 +97,7 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 **专业桌面应用，完整AI功能！**
 
 <!-- 下载按钮展示图 -->
-![下载展示](https://via.placeholder.com/600x200/059669/FFFFFF?text=下载安装展示图)
+![下载展示](assets/img_1.png)
 
 👉 **[下载最新版本 (v1.0.0)](https://gitee.com/gongdnq/wechat_proxy/releases/download/v1.0.0/公众号数据助手-1.0.0-setup.exe)** 👈
 
@@ -109,7 +109,7 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 ### 📋 **安装指南**
 
 <!-- 安装步骤展示图 -->
-![安装步骤](https://via.placeholder.com/600x300/4F46E5/FFFFFF?text=安装步骤展示图)
+![安装步骤](assets/img_2.png)
 
 1. **下载** 上方链接的安装程序
 2. **右键管理员身份** 运行安装文件
@@ -132,7 +132,7 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 ## 🏆 自媒体创作者真实评价
 
 <!-- 用户评价展示图 -->
-![用户评价](https://via.placeholder.com/700x300/8B5CF6/FFFFFF?text=用户评价和案例展示)
+![用户评价](assets/img_3.png)
 
 > *"这个AI工具每周为我节省了10多个小时的微信公众号和百家号数据收集时间。AI洞察分析帮助我们在所有平台的互动率提升了40%！"*
 > 
@@ -147,7 +147,7 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 > **— 数字营销机构**
 
 <!-- 成功案例展示图 -->
-![成功案例](https://via.placeholder.com/600x250/DC2626/FFFFFF?text=成功案例数据展示)
+![成功案例](assets/img_4.png)
 
 ## 🛠️ AI技术规格
 
@@ -159,7 +159,7 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 ## 🎯 自媒体应用场景
 
 <!-- 应用场景展示图 -->
-![应用场景](https://via.placeholder.com/800x400/059669/FFFFFF?text=应用场景展示图)
+![应用场景](assets/img.png)
 
 ### 📈 **自媒体运营团队**
 - 微信公众号统一管理
@@ -184,9 +184,9 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 <!-- 使用场景截图组 -->
 <div align="center">
 
-![场景1](https://via.placeholder.com/300x200/4F46E5/FFFFFF?text=运营团队使用场景)
-![场景2](https://via.placeholder.com/300x200/059669/FFFFFF?text=企业使用场景)
-![场景3](https://via.placeholder.com/300x200/DC2626/FFFFFF?text=代运营使用场景)
+![场景1](assets/img_2.png)
+![场景2](assets/img_3.png)
+![场景3](assets/img_4.png)
 
 </div>
 
@@ -221,7 +221,7 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 ## <a name="联系我们"></a>📞 联系我们
 
 <!-- 联系方式展示图 -->
-![联系方式](https://via.placeholder.com/600x200/8B5CF6/FFFFFF?text=联系方式展示图)
+![联系方式](assets/img_1.png)
 
 <div align="center">
 
@@ -236,8 +236,8 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 
 ### � **扫码加入用户群**
 
-<!-- 微信群二维码位置 -->
-![微信群二维码](https://via.placeholder.com/200x200/4F46E5/FFFFFF?text=微信群二维码+请替换为实际二维码)
+<!-- 微信群二维码 -->
+![微信群二维码](assets/contact_me_qr.png)
 
 *专业技术支持 • 用户交流 • 最新资讯*
 

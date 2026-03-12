@@ -260,7 +260,7 @@ AI-powered real-time tracking of article performance, engagement metrics, and au
 > 
 > **— 自媒体运营总监, Tech Company**
 
-> *"Finally, an AI tool that actually works for 头条号 and WeChat! Clean interface, powerful AI features, and excellent support."*
+> *"Finally, an AI tool that actually works for 头条号 and WeChat! Clean interface, powerful AI features, and excellent support. "*
 > 
 > **— Content Creator, 500K+ followers across platforms**
 

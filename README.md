@@ -175,7 +175,7 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 <!-- 微信群二维码 -->
 ![微信群二维码](src/assets/contact_me_qr.png)
 
-*专业技术支持 • 用户交流 • 最新资讯*
+*专业技术支持 • 用户交流 • 最新资讯• 更多更加*
 
 </div>
 
@@ -262,7 +262,7 @@ AI-powered real-time tracking of article performance, engagement metrics, and au
 > 
 > **— 自媒体运营总监, Tech Company**
 
-> *"Finally, an AI tool that actually works for 头条号 and WeChat! Clean interface, powerful AI features, and excellent support."*
+> *"Finally, an AI tool that actually works for 头条号 and WeChat! Clean interface, powerful AI features, and excellent support. "*
 > 
 > **— Content Creator, 500K+ followers across platforms**
 

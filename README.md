@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![下载应用](https://img.shields.io/badge/📥_下载应用-桌面版-059669?style=for-the-badge)](https://github.com/DNQtech/wecha_proxy/releases/tag/v1.0.5)
+[![下载应用](https://img.shields.io/badge/📥_下载应用-桌面版-059669?style=for-the-badge)](https://github.com/DNQtech/wecha_proxy/releases)
 [![联系我们](https://img.shields.io/badge/💬_联系我们-微信群-DC2626?style=for-the-badge)](#联系我们)
 
 **专业的AI驱动数据采集分析工具 | 微信公众号 | 百家号 | 头条号**
@@ -86,7 +86,7 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 
 **专业桌面应用，完整AI功能！**
 
-👉 **[下载最新版本 (v1.0.5)](https://github.com/DNQtech/wecha_proxy/releases/tag/v1.0.5)** 👈
+👉 **[下载最新版本 (v1.0.5)](https://github.com/DNQtech/wecha_proxy/releases)** 👈
 
 - ✅ 完整AI数据分析功能
 - ✅ 多平台数据采集
@@ -162,8 +162,8 @@ AI算法实时监控文章表现，智能预测热点趋势，优化自媒体运
 
 ### 🎯 **准备好改变您的数据分析方式了吗？**
 
-[![立即下载](https://img.shields.io/badge/📥_立即下载-v1.0.5-4F46E5?style=for-the-badge&logo=download)](https://github.com/DNQtech/wecha_proxy/releases/tag/v1.0.5)
-[![查看所有版本](https://img.shields.io/badge/📋_所有版本-GitHub-059669?style=for-the-badge&logo=git)](https://github.com/DNQtech/wecha_proxy/releases/tag/v1.0.5)
+[![立即下载](https://img.shields.io/badge/📥_立即下载-v1.0.5-4F46E5?style=for-the-badge&logo=download)](https://github.com/DNQtech/wecha_proxy/releases)
+[![查看所有版本](https://img.shields.io/badge/📋_所有版本-GitHub-059669?style=for-the-badge&logo=git)](https://github.com/DNQtech/wecha_proxy/releases)
 [![联系销售](https://img.shields.io/badge/💬_联系销售-获取报价-DC2626?style=for-the-badge&logo=chat)](mailto:sales@example.com)
 
 </div>
@@ -223,7 +223,7 @@ AI-powered real-time tracking of article performance, engagement metrics, and au
 
 **Professional desktop application with full AI capabilities!**
 
-👉 **[Download Latest Version (v1.0.5)](https://github.com/DNQtech/wecha_proxy/releases/tag/v1.0.5)** 👈
+👉 **[Download Latest Version (v1.0.5)](https://github.com/DNQtech/wecha_proxy/releases)** 👈
 
 - ✅ Complete AI-powered data analysis
 - ✅ Multi-platform data collection
@@ -287,8 +287,8 @@ AI-powered real-time tracking of article performance, engagement metrics, and au
 
 ### 🎯 **Ready to Transform Your Data Analysis?**
 
-[![Download Now](https://img.shields.io/badge/📥_Download_Now-v1.0.5-4F46E5?style=for-the-badge&logo=download)](https://github.com/DNQtech/wecha_proxy/releases/tag/v1.0.5)
-[![View Releases](https://img.shields.io/badge/📋_All_Releases-GitHub-059669?style=for-the-badge&logo=git)](https://github.com/DNQtech/wecha_proxy/releases/tag/v1.0.5)
+[![Download Now](https://img.shields.io/badge/📥_Download_Now-v1.0.5-4F46E5?style=for-the-badge&logo=download)](https://github.com/DNQtech/wecha_proxy/releases)
+[![View Releases](https://img.shields.io/badge/📋_All_Releases-GitHub-059669?style=for-the-badge&logo=git)](https://github.com/DNQtech/wecha_proxy/releases)
 [![Contact Sales](https://img.shields.io/badge/💬_Contact_Sales-Get_Quote-DC2626?style=for-the-badge&logo=chat)](mailto:sales@example.com)
 
 </div>
